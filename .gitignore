@@ -1,2 +1,4 @@
 data
 .venv
+checkpoint.pt
+E0_specter.npy
