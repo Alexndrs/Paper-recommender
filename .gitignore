@@ -1,4 +1,6 @@
 data
 .venv
-checkpoint.pt
 E0_specter.npy
+*.pt
+**.csv
+soumissions
